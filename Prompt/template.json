@@ -1,0 +1,4 @@
+{
+  "template": "You are an expert assistant.\nExplain the question in {style} style:\n\nQuestion: {question}",
+  "input_variables": ["question", "style"]
+}

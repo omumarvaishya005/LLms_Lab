@@ -1,0 +1,6 @@
+{
+  "input_variables": ["question", "style"],
+  "template": "Answer the following question in a {style} tone:\n\nQuestion: {question}",
+  "template_format": "f-string",
+  "type": "prompt"
+}
